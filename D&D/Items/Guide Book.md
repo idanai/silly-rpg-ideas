@@ -1,6 +1,6 @@
 Rarity: Artefact
 ## Description
-Bound in old leather, are 200 old pages. On the front cover, etched in thin silver, is the title: "Here & There: an Adventurer's Guide Book".
+Bound in old leather, are 200 old yellowing pages. On the front cover, etched in thin silver, is the title: "Here & There: an Adventurer's Guide Book".
 The book is a window to another (simulated?) reality, almost identical to our own, where a sentient character- drawn expertly in black ink- by the name of Sammy (or any other name, race and gender; according to the GM) lives. Sammy is a kindred spirit, who loves travel and good conversation. Sammy is alone in his realm, and loves when people open the book to converse with him, or seek his advice.
 Sammy acts as if he is there with the players, and gets confused when asked about the nature of the book and his existence, not answering in any useful way.
 
@@ -23,12 +23,12 @@ The book requires attunement to receive the bonuses and to task Sammy, but not t
 
 ## Actions
 ##### Helpful Guide
-Anyone carrying the book, can use an action to open the book and talk to Sammy, seeking his advice. This grants an accumulating bonus (increases as the players find clues), which starts at +1 to the following:
+You can use an action to open the book and talk to Sammy, seeking his advice. This grants an accumulating bonus (increases as the players find clues), which starts at +1 to the following:
 1. Wisdom (Survival) checks in order to find their way in the wild
 2. Intelligence (Nature) checks to look for natural supplies in the wild
 3. Intelligence (Investigation) checks to find treasure, hidden doors, and traps
 However, taking this action grants Disadvantage on Dexterity (Stealth) checks, or Advantage on foes' Wisdom (Perception) checks for the immediate scene (GM's discretion).
 ##### A favour for a favour
-The player holding the book may ask Sammy for their assistance in looking for an object, or to map an area no larger than #TODO. If the task is considered trespassing, illegal, or will assist in theft, the player must succeed on a Charisma (Persuasion) with a high DC or Charisma (Deception) with a lower DC (because Sammy is trusting) to convince him to to the task. If the Persuasion check is failed, Sammy kindly refuses to take on the task. If the Deception check is failed, Sammy will refuse any following favours and the bonuses granted by the book will be lost, until the players find a clue, after which Sammy will forgive them and bonuses return.
+You may ask Sammy for his assistance in looking for an object, or to map an area no larger than #TODO. If the task is considered trespassing, illegal, or will assist in theft, the player must succeed on a Charisma (Persuasion) with a high DC or Charisma (Deception) with a lower DC (because Sammy is trusting) to convince him to to the task. If the Persuasion check is failed, Sammy kindly refuses to take on the task. If the Deception check is failed, Sammy will refuse any following favours and the bonuses granted by the book will be lost, until the players find a clue, after which Sammy will forgive them and bonuses return.
 It could take Sammy as little as an hour to complete the task if the area is small, or as much as a day if the area is large. Alternatively, paper and ink of high quality, worth 50 Gold Pieces per hour, which can be used by a wizard for learning spells, can be fed to the book, allowing the players to browse further in the book into the Sammy's future, after he completed the task.
 After completing the task, the players must find another clue before asking for another favour, or roll with a higher DC the same checks to ask for another favour.
